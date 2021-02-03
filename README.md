@@ -1,4 +1,6 @@
-Oi 👋
+<h1 align="center">Hey folks! I'm Camila Aveliz 👋</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milaveliz&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="milaveliz" /> </p>
 
 <!--
 **milaveliz/milaveliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
